@@ -8,10 +8,8 @@
 
 #import "ViewController.h"
 #import "AFNetworking.h"
-#import "Category.h"
 #import "Usuarios.h"
 #import "Pedidos.h"
-#import "AgregarCategoriasController.h"
 #import "AgregarUsuarioController.h"
 
 @implementation ViewController
